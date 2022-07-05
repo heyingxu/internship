@@ -4,7 +4,7 @@
 
 （1）双击VMware-workstation-full-16.1.2-17966106.exe。
 
-![internship/day01/Day 01学习笔记 安装虚拟机并配置虚拟环境/image1.png](internship/day01/Day 01学习笔记 安装虚拟机并配置虚拟环境/image1.png)
+![image1.png](./Day 01学习笔记 安装虚拟机并配置虚拟环境/image1.png)
 
 （2）打开任务管理器-性能，查看虚拟化是否启用。若没有，则参考链接[https://blog.csdn.net/koukai6713/article/details/103555203](https://blog.csdn.net/koukai6713/article/details/103555203)。（根据联想本机，是重启后自动打开）
 
